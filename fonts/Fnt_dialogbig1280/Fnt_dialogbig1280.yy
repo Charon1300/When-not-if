@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Fnt_dialog",
+  "%Name":"Fnt_dialogbig1280",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":36,
@@ -2977,7 +2977,7 @@
   "last":0,
   "lineHeight":45,
   "maintainGms1Font":false,
-  "name":"Fnt_dialog",
+  "name":"Fnt_dialogbig1280",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",
@@ -2994,7 +2994,10 @@
   "sdfSpread":8,
   "size":30.0,
   "styleName":"Regular",
-  "textureGroupId":null,
-  "TTFName":"C:\\Users\\Fugit\\GameMakerProjects\\Point and click prototype\\fonts\\Fnt_dialog\\NixieOne.ttf",
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "TTFName":"C:\\Users\\Fugit\\GameMakerProjects\\Point and click prototype\\fonts\\Fnt_dialogbig\\NixieOne.ttf",
   "usesSDF":false,
 }

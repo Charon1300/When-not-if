@@ -5,7 +5,7 @@
 //dialogue obj that when room starts will spawn the textbox and msgs
 //after all msgs displayed the textbox will delete itself
 msg = [
-	["Hey there!AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "Rob", Sprite5],
+	["dialogue obj that when room starts will spawn the textbox and msgs after all msgs displayed the textbox will delete itself", "Rob", Sprite5],
 	["Hey therePPPP", "Rob", Sprite5],
 	["Hey there", "Rob", Sprite5],
 	["Hello! its a player", "Player", Sprite6]
