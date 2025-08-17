@@ -22,7 +22,7 @@ if (sprite_exists(_image))
 	var _imageH = sprite_get_height(_image);
 	
 	//Draw
-	draw_sprite(_image, 0, (_drawX + _imageW / 2), (_drawY + _imageH / 2));
+	draw_sprite(_image, 0, 32, 320);
 	
 	_drawX += _imageW + padding;
 }
@@ -45,7 +45,7 @@ var _maxW = width - (_drawX + padding);
 //scribble object with per writen text and format, wraping, align, and drawing
 var scribble_objecttext = scribble(_text)
 	.starting_format("Fnt_dialog", c_white)
-	.wrap(1100)
+	.wrap(900)
 	.align(fa_left, fa_top)
 	.draw(_drawX, _drawY, typist );
 

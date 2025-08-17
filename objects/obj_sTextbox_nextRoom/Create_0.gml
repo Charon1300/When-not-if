@@ -33,4 +33,4 @@ width = _guiW;
 x = 0;
 y = _guiH - height;
 //other
-padding = 8;
+padding = 5;

@@ -6,14 +6,12 @@
 //after all msgs displayed the textbox will delete itself
 //["", "Laura", Sprite6]
 msg = [
-	["Man, I’m bored to death. I haven't gotten an interesting offer for a job in a while.", "Laura", Sprite5],
-	["I’m just itching to get into something weird or obscure.", "Laura", Sprite5],
-	["That job to tail the client’s husband for that weird hobby.", "Laura", Sprite5],
-	["At first it was just a hunt for finding his weird hobby but then it spiralled into a whole blown conspiracy.", "Laura", Sprite6],
-	["Before I could even notice the rabbit hole I got myself into, I totally forgot the main reason I took the job. Good /knocking/", "Laura", Sprite6],
-	["Come on in!", "Laura", Sprite6],
-	["/Walking noises/Weird… mail doesn’t come today…/L opens the door/ A letter? Hmmm. “Come to the island of Kaome and learn the truth behind the history of communities that used to call Kaome their home.”", "Laura", Sprite6],
-	["Exactly what I was looking for.", "Laura", Sprite6]
+	["“To us a full life span of 100 or so years is a long time, but compared to rocks our life spans may well be minuscule, so why spend our small time angry?”", "Laura", Laura_spr],
+	["Hopefully that will hit hard in the article. I didn’t expect myself to get so engrossed by rocks of all things.", "Laura", Laura_spr],
+	["Well it's not like I haven't gotten more invested in other odd things and fall down multiple rabbit holes.", "Laura", Laura_spr],
+	["I wonder what next I will get an unhealthy obsession with. /Knocking/  Be right there.", "Laura", Laura_spr],
+	["/Walking noises/Weird… that package doesn’t come today…/L opens the door/ A letter? Hmmm. “Come to the island of Kaome and learn the truth behind the history of community that used to call Kaome their home.”", "Laura", Laura_spr],
+	["Interesting.", "Laura", Laura_spr],
 ]
 
 screenWidth = window_get_width();

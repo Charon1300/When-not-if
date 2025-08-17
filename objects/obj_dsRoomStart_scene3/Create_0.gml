@@ -6,17 +6,27 @@
 //after all msgs displayed the textbox will delete itself
 //["", "Shane", Sprite5]
 msg = [
-	["Alright last day before Mr.Rann comes home.", "Shane", Sprite5],
-	["First check the mailbox, second feed Doc, third clean the bedroom, clean the living room, clean the kitchen in that order.", "Shane", Sprite5],
-	["Everything looks in order. /Keys in lock sound, door opening/ Hello Mr.Rann how was the trip?", "Shane", Sprite5],
-	["It was fine, excellent job on keeping the place in good shape. I hope that Doc didn’t cause any trouble.", "Mr.Rann", Sprite6],
-	["He was a wonderful pet, no need to worry sir.", "Shane", Sprite5],
-	["Well anyway here’s the agreed upon cash.", "Mr.Rann", Sprite5],
-	["Thank you, also before I get out of your hair, are there any jobs that you or someone you know need getting done?", "Shane", Sprite5],
-	["Funny you ask, there was a person that I got to know on the trip that had needed a handy man. Told me to give this flyer if I found someone.", "Mr.Rann", Sprite5],
-	["Thank you, have a nice night. /Door closes sound/ “Come to the island of Kaome if you’re looking for good, honest, hardwork.”", "Shane", Sprite5],
-	["“Payment will be discussed upon reaching Kaome.”", "Shane", Sprite5],
-	["Sounds like a fun job.", "Shane", Sprite5]
+	["The letter said the meetup point is at the boat, which is at the rightmost port of the docks.", "Laura", Laura_spr],
+	["Looks like I’m not the only one who was invited.", "Laura", Laura_spr],
+	["Hello nice to meet yo- Dawn? Is that you?", "Laura", Laura_spr],
+	["Laura? What are you doing here?", "Dawn", Dawn_spr],
+	["I could ask you the same. When did you care about the truth?", "Laura", Laura_spr],
+	["Truth? Isn’t this a leadership training course? What did your email say about the trip to Kaome?", "Dawn", Dawn_spr],
+	["I didn’t get an email, I got a letter beckoning me to learn about the truth of Kaome.", "Laura", Laura_spr],
+	["Well looks like we will need to ask the captain when he gets here. This whole thing feels sketchy.", "Dawn" , Dawn_spr],
+	["Are you still doing the whole community liaison thing? Doesn’t it get annoying having to answer to the whims of the community.","Laura", Laura_spr],
+	["Yes, I’m still the community liaison and don’t call it a thing. I gladly have the interests of the community as my responsibility.", "Dawn", Dawn_spr],
+	["Which is something you couldn’t understand. Always so self centered.", "Dawn", Dawn_spr],
+	["Excuse me that I care about the number one priority of my life, which is myself.", "Laura", Laura_spr],
+	["You should try caring more about yourself too. That job is holding you back from realizing your potential.", "Laura", Laura_spr],
+	["Look at me, I control everything about my profession, with no one to tell me how to do my job. The ultimate freedom.", "Laura", Laura_spr],
+	["You know too much freedom can be a bad thing as well right. And I’m happy with my job, it makes me feel I’m making a difference.", "Dawn", Dawn_spr],
+	["/Car approaching / Seems like everyone is here, come along now.", "Conductor"],
+	["Wait a minute, what's the meaning with the conflicting info about this trip. She thought this was leadership training, while I thought it was about the truth.", "Laura", Laura_spr],
+	["I do as my employers instruct, If you want answers then come aboard.", "Conductor"],
+	["At least this is going to be interesting.", "Laura", Laura_spr],
+	["How do you not get how weird this is? Wait up!", "Dawn"]
+
 ]
 
 screenWidth = window_get_width();
