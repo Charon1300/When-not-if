@@ -49,11 +49,3 @@ var scribble_objecttext = scribble(_text)
 	.align(fa_left, fa_top)
 	.draw(_drawX, _drawY, typist );
 
-//displays full text doesn't advance to next msg
-if(keyboard_check_pressed(vk_space)){
-	self.typist.skip();	
-}
-
-//1 is type 100% on display 
-var typewriter_state = self.typist.get_state();
-

@@ -4,7 +4,7 @@
 //can make different ones for sound profiles
 typist = scribble_typist();
 typist.in(0.4, 1.5);
-typist.sound([new_bird, cat, lizard], false, 1, 1);
+typist.sound([lizard, catDeeper], 0.5, 1, 1);
 
 //array for messages and ID for number of msgs
 messages = [];

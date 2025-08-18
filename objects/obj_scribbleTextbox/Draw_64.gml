@@ -9,11 +9,11 @@ var _image = _arr[MSG.IMAGE];
 var _text = _arr[MSG.TEXT];
 
 //Draw Textbox
-draw_sprite_ext(Textbox, 1, x, 850, display_get_gui_width()/48, 3, 0, c_white, 1);
+draw_sprite_ext(Textbox, 1, x, 450, display_get_gui_width()/48, 3, 0, c_white, 1);
 
 //Draw position
 var _drawX = x + padding;
-var _drawY = 850 + padding;
+var _drawY = 450 + padding;
 
 //draw image 
 if (sprite_exists(_image)) 
@@ -22,7 +22,7 @@ if (sprite_exists(_image))
 	var _imageH = sprite_get_height(_image);
 	
 	//Draw
-	draw_sprite(_image, 0, (_drawX + _imageW / 2), (_drawY + _imageH / 2));
+	draw_sprite(_image, 0, 32, 320);
 	
 	_drawX += _imageW + padding;
 }
@@ -45,15 +45,9 @@ var _maxW = width - (_drawX + padding);
 //scribble object with per writen text and format, wraping, align, and drawing
 var scribble_objecttext = scribble(_text)
 	.starting_format("Fnt_dialog", c_white)
-	.wrap(1400)
+	.wrap(900)
 	.align(fa_left, fa_top)
 	.draw(_drawX, _drawY, typist );
 
-//displays full text doesn't advance to next msg
-if(keyboard_check_pressed(vk_space)){
-	self.typist.skip();	
-}
 
-//1 is type 100% on display 
-var typewriter_state = self.typist.get_state();
 
