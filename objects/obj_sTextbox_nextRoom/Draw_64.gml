@@ -9,7 +9,7 @@ var _image = _arr[MSG.IMAGE];
 var _text = _arr[MSG.TEXT];
 
 //Draw Textbox
-draw_sprite_ext(Textbox, 1, x, 450, display_get_gui_width()/48, 3, 0, c_white, 1);
+draw_sprite_ext(panel_blue___Copy, 1, 300, 445, 10, 2, 0, c_white, 1);
 
 //Draw position
 var _drawX = x + padding;
