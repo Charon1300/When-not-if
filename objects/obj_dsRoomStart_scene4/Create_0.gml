@@ -6,12 +6,12 @@
 //after all msgs displayed the textbox will delete itself
 //["", "Shane", Sprite5]
 msg = [
-	["Please follow me. The answers you seek are just along this way.", "Conductor"],
+	["Please follow me. The answers you seek are just along this way.", "Conductor", conductor_spr],
 	["An underground facility? Maybe the employer is rich.", "Laura", Laura_spr],
 	["But why build all this for though. Even as a museum this feels way too elaborate.", "Dawn", Dawn_spr],
-	["Before we depart, allow me to give you all some information.", "Conductor"],
-	["This underground facility is known as the Rail Yard. A place where time and death intersect.", "Conductor"],
-	["Your job is to learn about what lies within. We will have to take this train car to the main platform. You will learn of the people of foratin.", "Conductor"]
+	["Before we depart, allow me to give you all some information.", "Conductor", conductor_spr],
+	["This underground facility is known as the Rail Yard. A place where time and death intersect.", "Conductor", conductor_spr],
+	["Your job is to learn about what lies within. We will have to take this train car to the main platform. You will learn of the people of foratin.", "Conductor", conductor_spr]
 
 ]
 

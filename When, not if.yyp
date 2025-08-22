@@ -235,6 +235,7 @@
     {"id":{"name":"walking","path":"sounds/walking/walking.yy",},},
     {"id":{"name":"wolf","path":"sounds/wolf/wolf.yy",},},
     {"id":{"name":"bg_office","path":"sprites/bg_office/bg_office.yy",},},
+    {"id":{"name":"conductor_spr","path":"sprites/conductor_spr/conductor_spr.yy",},},
     {"id":{"name":"Dawn_spr","path":"sprites/Dawn_spr/Dawn_spr.yy",},},
     {"id":{"name":"dixie2","path":"sprites/dixie2/dixie2.yy",},},
     {"id":{"name":"docks_bg","path":"sprites/docks_bg/docks_bg.yy",},},
