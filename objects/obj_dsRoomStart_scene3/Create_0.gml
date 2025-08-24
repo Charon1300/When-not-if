@@ -20,7 +20,7 @@ msg = [
 	["Excuse me that I care about the number one priority of my life, which is myself.", "Laura", Laura_spr],
 	["You should try caring more about yourself too. That job is holding you back from realizing your potential.", "Laura", Laura_spr],
 	["Look at me, I control everything about my profession, with no one to tell me how to do my job. The ultimate freedom.", "Laura", Laura_spr],
-	["You know too much freedom can be a bad thing as well right. And I'm happy with my job, it makes me feel I’m making a difference.", "Dawn", Dawn_spr],
+	["You know too much freedom can be a bad thing as well right. And I'm happy with my job, it makes me feel I'm making a difference.", "Dawn", Dawn_spr],
 	["[delay, 500][car_approaching][delay, 6500]Seems like everyone is here, come along now.", "Conductor", conductor_spr],
 	["Wait a minute, what's the meaning with the conflicting info about this trip. She thought this was leadership training, while I thought it was about the truth.", "Laura", Laura_spr],
 	["I do as my employers instruct, If you want answers then come aboard.", "Conductor", conductor_spr],
