@@ -54,11 +54,12 @@
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"scribble_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"scribble_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"toaster.mkv","CopyToMask":-1,"filePath":"datafiles","name":"toaster.mkv","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.2.212",
+    "IDEVersion":"2024.14.2.213",
   },
   "name":"When, not if",
   "resources":[
@@ -258,17 +259,19 @@
     {"id":{"name":"test","path":"sprites/test/test.yy",},},
     {"id":{"name":"test2","path":"sprites/test2/test2.yy",},},
     {"id":{"name":"Textbox","path":"sprites/Textbox/Textbox.yy",},},
+    {"id":{"name":"toaster","path":"sprites/toaster/toaster.yy",},},
+    {"id":{"name":"toaster24","path":"sprites/toaster24/toaster24.yy",},},
     {"id":{"name":"tracks_bg","path":"sprites/tracks_bg/tracks_bg.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"point_click","path":"rooms/point_click/point_click.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"dialogue","path":"rooms/dialogue/dialogue.yy",},},
     {"roomId":{"name":"dialogue2","path":"rooms/dialogue2/dialogue2.yy",},},
     {"roomId":{"name":"dialogue3","path":"rooms/dialogue3/dialogue3.yy",},},
     {"roomId":{"name":"dialogue4","path":"rooms/dialogue4/dialogue4.yy",},},
-    {"roomId":{"name":"point_click","path":"rooms/point_click/point_click.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
