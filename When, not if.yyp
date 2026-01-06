@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"When, not if",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -15,8 +15,8 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Music","folderPath":"folders/Objects/Music.yy","name":"Music","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"MainMenu","folderPath":"folders/Objects/MainMenu.yy","name":"MainMenu","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Music","folderPath":"folders/Objects/Music.yy","name":"Music","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"narrative","folderPath":"folders/Objects/narrative.yy","name":"narrative","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"point","folderPath":"folders/Objects/point.yy","name":"point","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Testing","folderPath":"folders/Objects/Testing.yy","name":"Testing","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -58,7 +58,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.2.212",
   },
   "name":"When, not if",
   "resources":[
@@ -81,6 +81,7 @@
     {"id":{"name":"obj_mm_title3","path":"objects/obj_mm_title3/obj_mm_title3.yy",},},
     {"id":{"name":"obj_scribbleTextbox","path":"objects/obj_scribbleTextbox/obj_scribbleTextbox.yy",},},
     {"id":{"name":"obj_sTextbox_nextRoom","path":"objects/obj_sTextbox_nextRoom/obj_sTextbox_nextRoom.yy",},},
+    {"id":{"name":"Object27","path":"objects/Object27/Object27.yy",},},
     {"id":{"name":"obox","path":"objects/obox/obox.yy",},},
     {"id":{"name":"oD","path":"objects/oD/oD.yy",},},
     {"id":{"name":"oexist","path":"objects/oexist/oexist.yy",},},
@@ -241,6 +242,7 @@
     {"id":{"name":"Dawn_spr","path":"sprites/Dawn_spr/Dawn_spr.yy",},},
     {"id":{"name":"dixie2","path":"sprites/dixie2/dixie2.yy",},},
     {"id":{"name":"docks_bg","path":"sprites/docks_bg/docks_bg.yy",},},
+    {"id":{"name":"hole","path":"sprites/hole/hole.yy",},},
     {"id":{"name":"islandbg1","path":"sprites/islandbg1/islandbg1.yy",},},
     {"id":{"name":"joural_bg","path":"sprites/joural_bg/joural_bg.yy",},},
     {"id":{"name":"Laura_spr","path":"sprites/Laura_spr/Laura_spr.yy",},},
