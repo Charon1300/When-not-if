@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_mm_title",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_mm_title",
   "overriddenProperties":[],
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"dixie2",
-    "path":"sprites/dixie2/dixie2.yy",
+    "name":"title",
+    "path":"sprites/title/title.yy",
   },
   "spriteMaskId":null,
   "visible":true,
