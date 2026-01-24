@@ -6,6 +6,9 @@
 if (cursor_sprite == mouse){
 	
 	visited = true;
+	instance_deactivate_object(oX);
+	inst_1A8CA25A.visible = true;
+	inst_1A8CA25A.msg = dia();
 	//info layer text
 	var inst_text = instance_create_layer(x, y,"Info_layer", oText);
 	//name

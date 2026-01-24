@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite11",
-    "path":"sprites/Sprite11/Sprite11.yy",
+    "name":"xbutton",
+    "path":"sprites/xbutton/xbutton.yy",
   },
   "spriteMaskId":null,
   "visible":true,

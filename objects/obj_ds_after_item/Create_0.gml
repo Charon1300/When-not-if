@@ -4,12 +4,8 @@
 //text, name, image, 
 //dialogue obj that when left pressed will spawn the textbox and msgs using alarm
 //after all msgs displayed the textbox will delete itself
-msg = [
-	["Hey there![rainbow]AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "Rob", Sprite5],
-	["Hey therePPPP", "Rob", Sprite5],
-	["Hey there", "Rob", Sprite5],
-	["Hello! its a player", "Player", Sprite6]
-]
+//script dia has all dialogue in functions that a object can change in its left pressed event
+msg = dia2();
 
 screenWidth = window_get_width();
 screenHeight = window_get_height();
