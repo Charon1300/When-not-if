@@ -9,7 +9,7 @@ if (self.visible == true){
 	layer_set_visible("tint", false);
 	layer_set_visible("textbox", false);
 	//turns off layer so no touching
-	instance_activate_layer("Instances");
+	instance_deactivate_layer("Instances");
 	//destoys all text objects
 	instance_destroy(oText);
 	//60 is 1 sec 

@@ -27,6 +27,7 @@ if (typewriter_state == 1)
 		{
 			messageID++;
 		} else {
+			instance_activate_layer("Instances");
 			instance_destroy();	
 		}
 	}

@@ -1,11 +1,13 @@
-/// @description Insert description here
+																									/// @description Insert description here
 // You can write your code in this editor
 
 //obj to display text 
 
-if (cursor_sprite == mouse){
+if (cursor_sprite == mouse && instance_exists(obj_scribbleTextbox) == false){
 	
 	visited = true;
+	//x button for dialogue after
+	inst_1A8CA25A.msg = hole_c();
 	//info layer text
 	var inst_text = instance_create_layer(x, y,"Info_layer", oText);
 	//name

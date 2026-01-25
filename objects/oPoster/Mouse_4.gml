@@ -3,7 +3,7 @@
 
 //obj to display text 
 
-if (cursor_sprite == mouse){
+if (cursor_sprite == mouse && instance_exists(obj_scribbleTextbox) == false){
 	
 	visited = true;
 	//info layer text

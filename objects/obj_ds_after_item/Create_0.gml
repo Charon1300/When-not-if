@@ -5,7 +5,7 @@
 //dialogue obj that when left pressed will spawn the textbox and msgs using alarm
 //after all msgs displayed the textbox will delete itself
 //script dia has all dialogue in functions that a object can change in its left pressed event
-msg = dia2();
+msg = door_c();
 
 screenWidth = window_get_width();
 screenHeight = window_get_height();
