@@ -12,7 +12,7 @@ messageText = _text;
 
 //fully displays dialogue when typewriter state is not 1
 //if no more msgs then it destories it self
-if (keyboard_check_pressed(vk_enter) && typewriter_state != 1) 
+if (keyboard_check_pressed(vk_enter)  && typewriter_state != 1) 
 {
 		typist.skip();
 		

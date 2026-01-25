@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oNextroom",
+  "%Name":"obj_dsRoomStart_scene6",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oNextroom",
+  "name":"obj_dsRoomStart_scene6",
   "overriddenProperties":[],
   "parent":{
-    "name":"point",
-    "path":"folders/Objects/point.yy",
+    "name":"narrative",
+    "path":"folders/Objects/narrative.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"nextlvlv",
-    "path":"sprites/nextlvlv/nextlvlv.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

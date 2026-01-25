@@ -1,12 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"oNextroom",
+  "%Name":"oBattries",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oNextroom",
+  "name":"oBattries",
   "overriddenProperties":[],
   "parent":{
     "name":"point",
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"nextlvlv",
-    "path":"sprites/nextlvlv/nextlvlv.yy",
+    "name":"battreis2",
+    "path":"sprites/battreis2/battreis2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
