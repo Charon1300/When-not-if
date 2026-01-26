@@ -15,4 +15,5 @@ if (!instance_exists(obj_sTextbox_nextRoom))
 		array_push(_list, _arr);
 		//array_push
 	}
+	
 }

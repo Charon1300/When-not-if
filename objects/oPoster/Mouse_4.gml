@@ -6,6 +6,8 @@
 if (cursor_sprite == mouse && instance_exists(obj_scribbleTextbox) == false){
 	
 	visited = true;
+	//x button for dialogue after
+	inst_1A8CA25A1.msg = poster_c();
 	//info layer text
 	var inst_text = instance_create_layer(x, y,"Info_layer", oText);
 	//name

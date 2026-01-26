@@ -3,7 +3,7 @@
 if (!instance_exists(obj_sTextbox_nextRoom)) 
 {
 	//create textbox
-	var _tb	= instance_create_layer(0, 540, "Instances", obj_scribbleTextbox)
+	var _tb	= instance_create_layer(0, 540, "Instances", obj_sTextbox_nextRoom)
 	
 	//add msgs to textbox array 
 	var _list = _tb.messages;

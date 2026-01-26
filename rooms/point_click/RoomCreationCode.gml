@@ -5,4 +5,5 @@ cursor_sprite = mouse;
 layer_set_visible("Info_layer", false);
 layer_set_visible("tint", false);
 layer_set_visible("textbox", false);
+audio_stop_sound(Space_CadetEdit);
 

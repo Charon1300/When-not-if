@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor TEST
-if (!instance_exists(obj_sTextbox_nextRoom)) 
+if (!instance_exists(obj_scribbleTextbox)) 
 {
 	//create textbox
 	var _tb	= instance_create_layer(0, 540, "Instances", obj_scribbleTextbox)

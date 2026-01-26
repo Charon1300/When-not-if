@@ -23,7 +23,7 @@ function newspaper_c(){ //newspaper convo
 	["What's wrong Luara.", "Dawn", Dawn_spr],
 	["The date, it's from the future.", "Luara", Laura_spr],
 	["How i-i-its impossible.", "Dawn", Dawn_spr],
-	["I don’t know but it has to be a part of the railyard’s power.", "Luara", Laura_spr],
+	["I don't know but it has to be a part of the railyard's power.", "Luara", Laura_spr],
 	["Are we in the future or are we viewing a snapshot. This is all too much…", "Dawn", Dawn_spr],
 	["The newspaper mentions fora. That must be connected to the blue smoke we've been seeing.", "Luara", Laura_spr]];
 }
@@ -52,9 +52,9 @@ function inbetween1_c(){
 	return [["Everything about this town is crazy. Houses destroyed, blue smoke on the horizon, and the magic that is allowing us to be here in the first place. Am I going crazy, what the hell.", "Luara", Laura_spr],
 	["Calm down Luara, we can figure out everything that is going on.", "Dawn", Dawn_spr],
 	["If someone was going to freak out first, I thought it would be you. HOw are you so calm right now?", "Luara", Laura_spr],
-	["Being in a public community liaison can have me dealing with multiple fires at any given time. So I’m used to dealing with a lot.", "Dawn", Dawn_spr],
-	["Maybe I underestimated you, it seems like that job has hardened you. I’m good now.", "Luara", Laura_spr],
-	["Good, I’m glad, let's head for the Commerce district.", "Dawn", Dawn_spr]];
+	["Being in a public community liaison can have me dealing with multiple fires at any given time. So I'm used to dealing with a lot.", "Dawn", Dawn_spr],
+	["Maybe I underestimated you, it seems like that job has hardened you. I'm good now.", "Luara", Laura_spr],
+	["Good, I'm glad, let's head for the Commerce district.", "Dawn", Dawn_spr]];
 }
 
 
@@ -100,9 +100,9 @@ function inbetween2_c(){
 	return [["Do you think fora could have been an energy source that was meant to be used for good? Instead they weaponized it and could have caused what happened to this town to the rest of the world.", "Dawn", Dawn_spr],
 	["It's an energy source, the meaning of good and bad probably have nothing to do with it. We as humans can’t put those labels on something that just exists.", "Luara", Laura_spr],
 	["So what, are you saying that the people responsible for this, should be let off the hook.", "Dawn", Dawn_spr],
-	["No I’m just saying that fora isn’t good or bad, it just is. Maybe in the hands of good people this wouldn’t have happened, but we can’t know for sure because that isn’t how this went down.", "Luara", Laura_spr],
-	["Sorry for lashing out. I didn’t peg you for the philosophical sort.", "Dawn", Dawn_spr],
-	["Sometimes in between cases, I get bored and it’s an endless topic to explore. Anyway, let's head to that court house looking building.", "Luara", Laura_spr]];
+	["No I'm just saying that fora isn't good or bad, it just is. Maybe in the hands of good people this wouldn’t have happened, but we can’t know for sure because that isn’t how this went down.", "Luara", Laura_spr],
+	["Sorry for lashing out. I didn't peg you for the philosophical sort.", "Dawn", Dawn_spr],
+	["Sometimes in between cases, I get bored and it's an endless topic to explore. Anyway, let's head to that court house looking building.", "Luara", Laura_spr]];
 }
 
 //ch3 convo
@@ -111,7 +111,7 @@ function announce_c(){
 	return [["It seems like this is how the announcement from that poster went down.", "Luara", Laura_spr],
 	["So they shared how they used the ore and then any country could buy it. Wonder if they had any criteria that wouldn’t allow a country to purchase the ore.", "Dawn", Dawn_spr],
 	["If not any country that was at war could buy and find new ways to make weapons using the ore.", "Dawn", Dawn_spr],
-	["Foratin probably didn’t care what affairs the country had, as long if the country had the money.", "Laura", Laura_spr]];
+	["Foratin probably didn't care what affairs the country had, as long if the country had the money.", "Laura", Laura_spr]];
 }
 
 function sale_c(){
@@ -122,13 +122,13 @@ function sale_c(){
 
 function anti_c(){
 	return [["Do you think that Foratin had a dark shady part of the government that suppressed these anti fora people?", "Dawn", Dawn_spr],
-	["It’s possible. Having people who were against the weapon research fora would hurt its value.", "Luara", Laura_spr],
+	["It's possible. Having people who were against the weapon research fora would hurt its value.", "Luara", Laura_spr],
 	["This letter probably went out to any country that had a conflict.", "Dawn", Dawn_spr],
 	["Wonder if this was a one man resistance or a whole group.", "Laura", Laura_spr]];
 }
 
 function clock_c(){
-	return [["Hey check out this clock, the time hasn’t changed at all.", "Dawn", Dawn_spr],
+	return [["Hey check out this clock, the time hasn't changed at all.", "Dawn", Dawn_spr],
 	["This could be the time and date that the town was destroyed.", "Laura", Laura_spr],
-	["A timestamp of when the town went to hell. At least we know the when but we’re still fuzzy on the how.", "Dawn", Dawn_spr]];
+	["A timestamp of when the town went to hell. At least we know the when but we're still fuzzy on the how.", "Dawn", Dawn_spr]];
 }
