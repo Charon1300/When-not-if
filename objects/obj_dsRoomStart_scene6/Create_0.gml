@@ -6,7 +6,7 @@
 //after all msgs displayed the textbox will delete itself
 //["", "Shane", Sprite5]
 msg = [
-	["Alright, we found everything we could and now it’s time to put all the pieces together and find the truth behind what happened to Foratin.", "Laura", Laura_spr],
+	["Alright, we found everything we could and now it's time to put all the pieces together and find the truth behind what happened to Foratin.", "Laura", Laura_spr],
 	["First, fora was discovered in Foratin as early as 4/15/3001.", "Dawn", Dawn_spr],
 	["The government of Foratin would then go on to conduct research on fora.", "Laura", Laura_spr],
 	["Even finding ways to weaponize fora.", "Dawn", Dawn_spr],

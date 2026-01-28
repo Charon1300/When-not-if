@@ -3,8 +3,8 @@
 visited = false;
 info_struct = 
 {
-	name : "Name",
-	subtext : "A tool that is for contrustion",
-	lore : "A great tool that is made for making of objects",
+	date : "6/26/3016",
+	name : "Clock",
+	lore : "3:40pm",
 };
 

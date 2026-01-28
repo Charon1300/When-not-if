@@ -12,6 +12,8 @@ if (self.visible == true){
 	instance_deactivate_layer("Instances");
 	//destoys all text objects
 	instance_destroy(oText);
+	instance_destroy(oSpread);
+	instance_destroy(oTextA);
 	//60 is 1 sec 
 	alarm[0] = 40;
 }

@@ -63,7 +63,7 @@ function inbetween1_c(){
 function storefront_c(){
 	return [["What do you think they sold around here?", "Dawn", Dawn_spr],
 	["They probably relied on fora for new innovations.", "Luara", Laura_spr],
-	["Commercial devices with a new power source. Maybe phones or computers wouldn’t need to rely on electricity.", "Dawn", Dawn_spr],
+	["Commercial devices with a new power source. Maybe phones or computers wouldn't need to rely on electricity.", "Dawn", Dawn_spr],
 	["Imagine a world where we move on from electricity.", "Dawn", Dawn_spr],
 	["Well when we started using electricity, not like we abandoned fire.", "Luara", Laura_spr],
 	["True, but where a fire can provide light, a lightbulb provides light without threat of destruction. Who knows maybe fora could do the same.", "Dawn", Dawn_spr],
@@ -98,9 +98,9 @@ function batteries_c(){
 
 function inbetween2_c(){
 	return [["Do you think fora could have been an energy source that was meant to be used for good? Instead they weaponized it and could have caused what happened to this town to the rest of the world.", "Dawn", Dawn_spr],
-	["It's an energy source, the meaning of good and bad probably have nothing to do with it. We as humans can’t put those labels on something that just exists.", "Luara", Laura_spr],
+	["It's an energy source, the meaning of good and bad probably have nothing to do with it. We as humans can't put those labels on something that just exists.", "Luara", Laura_spr],
 	["So what, are you saying that the people responsible for this, should be let off the hook.", "Dawn", Dawn_spr],
-	["No I'm just saying that fora isn't good or bad, it just is. Maybe in the hands of good people this wouldn’t have happened, but we can’t know for sure because that isn’t how this went down.", "Luara", Laura_spr],
+	["No I'm just saying that fora isn't good or bad, it just is. Maybe in the hands of good people this wouldn't have happened, but we can't know for sure because that isn't how this went down.", "Luara", Laura_spr],
 	["Sorry for lashing out. I didn't peg you for the philosophical sort.", "Dawn", Dawn_spr],
 	["Sometimes in between cases, I get bored and it's an endless topic to explore. Anyway, let's head to that court house looking building.", "Luara", Laura_spr]];
 }
@@ -109,7 +109,7 @@ function inbetween2_c(){
 
 function announce_c(){
 	return [["It seems like this is how the announcement from that poster went down.", "Luara", Laura_spr],
-	["So they shared how they used the ore and then any country could buy it. Wonder if they had any criteria that wouldn’t allow a country to purchase the ore.", "Dawn", Dawn_spr],
+	["So they shared how they used the ore and then any country could buy it. Wonder if they had any criteria that wouldn't allow a country to purchase the ore.", "Dawn", Dawn_spr],
 	["If not any country that was at war could buy and find new ways to make weapons using the ore.", "Dawn", Dawn_spr],
 	["Foratin probably didn't care what affairs the country had, as long if the country had the money.", "Laura", Laura_spr]];
 }
@@ -131,4 +131,8 @@ function clock_c(){
 	return [["Hey check out this clock, the time hasn't changed at all.", "Dawn", Dawn_spr],
 	["This could be the time and date that the town was destroyed.", "Laura", Laura_spr],
 	["A timestamp of when the town went to hell. At least we know the when but we're still fuzzy on the how.", "Dawn", Dawn_spr]];
+}
+
+function stay_c(){
+	return [["We should check everything before moving on.", "Laura", Laura_spr]];
 }

@@ -9,5 +9,6 @@ layer_set_visible("textbox", false);
 instance_activate_layer("Instances");
 //destoys all text objects
 instance_destroy(oText);
+instance_destroy(oSpread);
 
 

@@ -3,8 +3,8 @@
 visited = false;
 info_struct = 
 {
-	name : "Name",
-	subtext : "A tool that is for contrustion",
-	lore : "A great tool that is made for making of objects",
+	date : "4/15/3001",
+	name : "Fora, [Redacted]...",
+	lore : "Fora was first discovered on the Island, now known as Foratin. [Redacted].../[Redacted] reach the rest of the world is a mystery. For now stay up to date from our papers.",
 };
 

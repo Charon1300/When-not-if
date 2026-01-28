@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"paperh900",
-    "path":"sprites/paperh900/paperh900.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

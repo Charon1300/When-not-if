@@ -9,15 +9,15 @@ if (cursor_sprite == mouse && instance_exists(obj_scribbleTextbox) == false){
 	//x button for dialogue after
 	inst_1A8CA25A1_1.msg = announce_c();
 	//info layer text
-	var inst_text = instance_create_layer(x, y,"Info_layer", oText);
+	var inst_text = instance_create_layer(x, y,"Info_layer", oTextA);
 	//name
-	var text_name =  info_struct.name;
-	var text_sub = info_struct.subtext;
+	var text_date =  info_struct.date;
+	var text_name = info_struct.name;
 	var text_lore = info_struct.lore;
 	//sets info layer text var 
 	with(inst_text) {
-		text = text_name;
-		textsub = text_sub;
+		text = text_date;
+		textsub = text_name;
 		textlore = text_lore;
 	
 	}

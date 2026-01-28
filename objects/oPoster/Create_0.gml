@@ -3,8 +3,8 @@
 visited = false;
 info_struct = 
 {
-	name : "Name",
-	subtext : "A tool that is for contrustion",
-	lore : "A great tool that is made for making of objects",
+	date : "10/16/3015",
+	name : "Fora poster",
+	lore : "Come listen to the new announcement from the president on Tuesday 10/19/3015. New information on the distribution of fora and fora based products.",
 };
 

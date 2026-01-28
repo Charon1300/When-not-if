@@ -14,7 +14,7 @@ msg = [
 	["Whatever enough whining, the people made me the liaison, I can't let them let them down.", "Dawn", Dawn_spr],
 	["But how should I get better, if I'm so busy with requests?", "Dawn", Dawn_spr],
 	["[delay, 500][email_notif][delay,1500]Huh? No sender? Well whoever probably needs help.", "Dawn", Dawn_spr],
-	["'Visit the island of Kaome to better improve your leadership skills'", "Dawn", Dawn_spr],
+	["'Visit the island of Foratin to better improve your leadership skills'", "Dawn", Dawn_spr],
 	["'Those who sign up with get a community grant of $15000'", "Dawn", Dawn_spr],
 	["So I get an answer to my problem and the community gets much needed funds. Feels like it's too good to be true but it's too good to pass up.", "Dawn", Dawn_spr]
 ]
